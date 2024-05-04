@@ -20,3 +20,7 @@
 - Article Extractor: https://www.articlextractor.com/
 #### List of free News APIs
 https://github.com/public-apis/public-apis?tab=readme-ov-file#news
+#### Best suited:
+- NewsAPI
+- TheNewsAPI
+- CurrentsAPI
